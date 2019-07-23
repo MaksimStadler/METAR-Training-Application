@@ -1,0 +1,34 @@
+Code,Weather
+-   ,Light
++   ,Heavy
+VC  ,In the Vicinity
+MI  ,Shallow
+PR  ,Partial
+BC  ,Patches
+DR  ,Low Drifting
+BL  ,Blowing
+SH  ,Shower(s)
+TS  ,Thunderstorm
+FZ  ,Freezing
+DZ  ,Drizzle
+RA  ,Rain
+SN  ,Snow
+SG  ,Snow Grains
+IC  ,Ice Crystals
+PL  ,Ice Pellets
+GR  ,Hail
+GS  ,Small Hail and/or Snow Pellets
+UP  ,Unknown Precipitation
+BR  ,Mist
+FG  ,Fog
+FU  ,Smoke
+VA  ,Volcanic Ash
+DU  ,Widespread Dust
+SA  ,Sand
+HZ  ,Haze
+PY  ,Spray
+PO  ,Well-Developed Dust/Sand Whirls
+SQ  ,Squalls
+FC  ,Funnel Cloud Tornado Waterspout
+SS  ,Duststorm
+SHRA,Light rain showers
